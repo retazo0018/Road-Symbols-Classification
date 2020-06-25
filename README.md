@@ -10,11 +10,11 @@ Some of the Road symbols in the dataset are,
   * Bicycles crossing
   * Turn right ahead
   * Turn left ahead
-  
-Please look at the data/german-traffic-signs/signnames.csv for further details about the data.
 
 # Dataset
-* Data taken from https://bitbucket.org/jadslim/german-traffic-signs
+* Data taken from bitbucket.org/jadslim/german-traffic-signs
+* Use git clone https://bitbucket.org/jadslim/german-traffic-signs to extract the data. 
+* signnames.csv file inside the extracted folder would contain information about the data.
 
 # Techniques used
 * Data augmentation: Applying image transformation techniques on the training images to improve accuracy.
